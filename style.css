@@ -5,7 +5,9 @@ body {
 
 .like-glyph {
   cursor: pointer;
+  color: rgb(224, 0, 0);
 }
+
 
 body h1 {
   color: #FFF;
